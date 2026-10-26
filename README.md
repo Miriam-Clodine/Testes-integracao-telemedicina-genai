@@ -1,1 +1,0 @@
-# Testes-integracao-telemedicina-genai
